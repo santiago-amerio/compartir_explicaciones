@@ -14,4 +14,4 @@ ahora, este archivo contiene todas las dependencias que tenes instaladas en tu v
 
 ### ahora en el otro sistema/carpeta con el nuevo virtual enviroment ya creado
 con el nuevo virtual enviroment activado corremos ```pip install -r requirements.txt```
-esto va a instalar automaticamente todas las librerias creadas en el viejo virtual enviroment
+esto va a instalar automaticamente todas las librerias del viejo virtual enviroment en el virtual enviroment actual
